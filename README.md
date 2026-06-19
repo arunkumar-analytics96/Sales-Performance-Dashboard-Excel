@@ -18,6 +18,8 @@ Key Metrics
 - Total Sales
 - Total Profit
 - Quantity Sold
+- Average Unit Price
+- Average Discount
 
 Features
 
