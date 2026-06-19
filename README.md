@@ -31,3 +31,7 @@ Features
 Objective
 
 To transform raw sales data into meaningful insights and support data-driven decision making.
+
+## Dashboard Preview
+
+![Dashboard Preview](dashboard-preview.png)
