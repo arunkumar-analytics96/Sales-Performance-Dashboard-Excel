@@ -16,7 +16,7 @@ Tools Used
 Key Metrics
 
 - Total Sales
-- Total Profit
+- Total Orders
 - Quantity Sold
 - Average Unit Price
 - Average Discount
